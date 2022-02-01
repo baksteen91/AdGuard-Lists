@@ -1,0 +1,14 @@
+vcsa.vmware.com
+smetrics.ubi.com
+sanalytics.disneyplus.com
+clickserve.dartsearch.net
+mobile.pipe.aria.microsoft.com
+app.adjust.world
+teams.events.data.microsoft.com
+ssl.google-analytics.com
+content.lansweeper.com
+kinepolis.slgnt.eu
+www.vkmag.com
+live.com
+graph.instagram.com
+edge.activity.windows.com
