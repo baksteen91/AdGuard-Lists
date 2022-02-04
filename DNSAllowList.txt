@@ -12,3 +12,4 @@ www.vkmag.com
 live.com
 graph.instagram.com
 edge.activity.windows.com
+js.monitor.azure.com
