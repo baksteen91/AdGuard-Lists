@@ -14,3 +14,4 @@ graph.instagram.com
 edge.activity.windows.com
 js.monitor.azure.com
 nexusrules.officeapps.live.com
+browser.events.data.microsoft.com
