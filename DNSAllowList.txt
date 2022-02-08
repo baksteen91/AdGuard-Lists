@@ -15,3 +15,4 @@ edge.activity.windows.com
 js.monitor.azure.com
 nexusrules.officeapps.live.com
 browser.events.data.microsoft.com
+web.vortex.data.microsoft.com
