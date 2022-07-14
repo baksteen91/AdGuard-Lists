@@ -16,3 +16,4 @@ device-api.urbanairship.com
 jslog.krxd.net
 gvt2.com
 www.googletagmanager.com
+region1.google-analytics.com
