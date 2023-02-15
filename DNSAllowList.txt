@@ -17,3 +17,4 @@ nexusrules.officeapps.live.com
 browser.events.data.microsoft.com
 web.vortex.data.microsoft.com
 spele.nl
+minepi.com
