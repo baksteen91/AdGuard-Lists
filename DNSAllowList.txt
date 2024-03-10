@@ -19,3 +19,5 @@ web.vortex.data.microsoft.com
 spele.nl
 minepi.com
 app-cdn.minepi.com
+my.homey.app
+homeylocal.com
